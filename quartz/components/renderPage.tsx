@@ -212,9 +212,9 @@ export function renderPage(
       <div class="backlinks">
         <h3>About</h3>
         <ul class="overflow">
-          <li style="margin-bottom: 1em;">Monero garden is a community project by <a target="_blank" href="https://anhdres.com/">anhdres</a> where you can learn about Monero.</li>
-          <li><a target="_blank" href="https://github.com/monerogarden">Github</a></li>
-          <li><a target="_blank" href="https://matrix.to/#/#monerogarden:monero.social">Matrix</a></li>
+          <li style="margin-bottom: 1em;">Monero Bahçesi <b>MoneroTurko</b> topluluğundan çıkmış bir çeviri projesidir.  <b>GEL DE BUL.</b></li>
+          <li><a target="_blank" href="https://github.com/k4r4by3/monerobahcesi">Github</a></li>
+          <li><a target="_blank" href="https://signal.group/#CjQKICUccbfPqIGYux906JmjTTY9TIplefrNHCNB-rNdOB7kEhDwqp9rYNPC4ccS0nROndI6">Signal</a></li>
         </ul>
       </div>
     </div>
