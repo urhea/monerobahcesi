@@ -1,5 +1,5 @@
 ---
-title: Hoşgeldin
+title: Monero Bahçesine Hoşgeldin
 ---
 
 Kendini küçük ve paslı bir demir parmaklı kapıdan geçerken hayal et.
