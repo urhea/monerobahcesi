@@ -32,8 +32,8 @@ def add_navigation_links(subfolder, files):
             content = remove_existing_links(content)
             
             # Prepare navigation links
-            next_link = f'<a href="./{files[i+1]}">Next ►</a>' if i < len(files) - 1 else ""
-            prev_link = f'<a href="./{files[i-1]}">◄ Previous</a>' if i > 0 else ""
+            next_link = f'<a href="./{files[i+1]}">Sonraki ►</a>' if i < len(files) - 1 else ""
+            prev_link = f'<a href="./{files[i-1]}">◄ Önceki</a>' if i > 0 else ""
             nav_links = f"\n\n<p align='center' style='margin-top: 1.5em;'><span style='margin-right: 1em;'>{prev_link}</span> <span style='color: #ff774d;'>/</span> <span style='margin-left: 1em;'>{next_link}</span></p>\n"
             
             # Move to the beginning of the file to write updated content
