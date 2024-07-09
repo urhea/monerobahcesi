@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "en-US",
+    locale: "tr-TR",
     baseUrl: "k4r4b3y.github.io/monerobahcesi",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",

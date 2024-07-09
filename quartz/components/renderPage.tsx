@@ -210,7 +210,7 @@ export function renderPage(
       ))}
 
       <div class="backlinks">
-        <h3>About</h3>
+        <h3>Hakkında</h3>
         <ul class="overflow">
           <li style="margin-bottom: 1em;">Monero Bahçesi <b>MoneroTurko</b> topluluğundan çıkmış bir çeviri projesidir.  <b>GEL DE BUL.</b></li>
           <li><a target="_blank" href="https://github.com/k4r4b3y/monerobahcesi">Github</a></li>
