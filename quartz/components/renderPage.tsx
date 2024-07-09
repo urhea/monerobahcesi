@@ -213,7 +213,7 @@ export function renderPage(
         <h3>About</h3>
         <ul class="overflow">
           <li style="margin-bottom: 1em;">Monero Bahçesi <b>MoneroTurko</b> topluluğundan çıkmış bir çeviri projesidir.  <b>GEL DE BUL.</b></li>
-          <li><a target="_blank" href="https://github.com/k4r4by3/monerobahcesi">Github</a></li>
+          <li><a target="_blank" href="https://github.com/k4r4b3y/monerobahcesi">Github</a></li>
           <li><a target="_blank" href="https://signal.group/#CjQKICUccbfPqIGYux906JmjTTY9TIplefrNHCNB-rNdOB7kEhDwqp9rYNPC4ccS0nROndI6">Signal</a></li>
         </ul>
       </div>
