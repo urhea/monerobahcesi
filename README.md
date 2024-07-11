@@ -1,4 +1,4 @@
-<h1 align="center" style="color: orange;">Monero Bahçesi 🌿</h1>
+<h1 align="center" style="color: orange;">Monero Bahçesi 🌿🍄</h1>
 
 <p align="center"> "Guru yok, metod yok, öğretmen yok. Sadece sen ve
 ben, ve doğa, <b>bahçe</b> içinde." — Terence McKenna </p>
